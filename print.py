@@ -1,4 +1,3 @@
-import pymongo
-print("welcome to my world")
-print("every day is a good day")
-print("tomorrow is a another day")
+
+print("计算1+2的结果")
+print("计算结果为",1+2)
